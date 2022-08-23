@@ -1,0 +1,127 @@
+.hero {
+    /* margin-top: px; */
+    background: var(--main);
+    color: var(--wht);
+}
+
+h2 div {
+    display: flex;
+}
+
+h2 div h3 {
+    color: var(--green);
+}
+
+.leeft .h1 {
+    position: relative;
+    color: var(--main2);
+    padding-top: 50px;
+    border: none;
+    margin-left: -140px;
+}
+
+.leeft .h2 {
+    border-left: 1px solid var(--green);
+
+}
+
+.firt {
+    display: flex;
+    margin-left: -180px;
+
+}
+
+.bir {
+    margin-top: -20px;
+    left: 20px;
+    color: var(--main2);
+    border: none;
+}
+
+.kacestva {
+    flex-direction: column;
+    column-gap: 1;
+}
+
+.kach {
+    color: var(--green);
+}
+
+.rrigth {
+    margin-top: 50px;
+    background-image: url(../../images/uy.png);
+    width: 500px;
+    height: 800px;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.toopp {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.birr {
+    color: var(--main2);
+    margin-left: -200px;
+}
+
+.ong .jdj {
+    font-size: large;
+    margin-top: 30px;
+}
+
+.ong h1 {
+    margin-top: -50px;
+}
+
+.witj {
+    width: 500px;
+    font: Oswald;
+    font-size: 18px;
+    Line-height: 36.05px;
+}
+
+.bottomm {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.chap img {
+    margin-top: 100px;
+}
+
+.hero-end h1 {
+    background: url(../../images/Rectangle\ 11.png);
+    border: none;
+    color: var(--green);
+    margin-top: -10px;
+}
+
+.hero-end {
+    display: flex;
+
+}
+.hero-box h6{
+    font-weight: 100;
+}
+.firtее {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media (max-width:768px) {
+    .toopp{
+        display: flex;
+        flex-direction: column;
+    }
+    .hero{
+        overflow: hidden;
+    }
+}

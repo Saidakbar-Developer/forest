@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9cdb367.css",
+    "main.js": "/static/js/main.1cbdad36.js",
+    "static/media/41286d8e-825b-4627-9290-4bbc8b6599f3 1.png": "/static/media/41286d8e-825b-4627-9290-4bbc8b6599f3 1.fe8c7117b88b17115175.png",
+    "static/media/Rectangle 16.png": "/static/media/Rectangle 16.2bcb1678c8f16f343840.png",
+    "static/media/uy.png": "/static/media/uy.735d6efc3835886da4a8.png",
+    "static/media/villa (3).png": "/static/media/villa (3).31260a4f28bc88b63f78.png",
+    "static/media/villa (1).png": "/static/media/villa (1).9f1e75379fc28e105a75.png",
+    "static/media/Group 8.png": "/static/media/Group 8.b464701dbb0eb3c70fc0.png",
+    "static/media/villa (2).png": "/static/media/villa (2).3560294789399b294408.png",
+    "static/media/Rectangle 11.png": "/static/media/Rectangle 11.c891e6a552b7d0f02cfe.png",
+    "static/media/Group 10.png": "/static/media/Group 10.af94b4777913eba5609f.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.e9cdb367.css.map": "/static/css/main.e9cdb367.css.map",
+    "main.1cbdad36.js.map": "/static/js/main.1cbdad36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9cdb367.css",
+    "static/js/main.1cbdad36.js"
+  ]
+}

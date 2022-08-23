@@ -1,0 +1,11 @@
+.footer-b{
+    width: 100%;
+    height: 180px;
+    background: var(--main);
+}
+.foot-box{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,23 @@
+.services {
+    background: var(--main);
+}
+
+.par {
+    color: var(--mian2);
+    font-size: 90px;
+    font-weight: 600;
+}
+
+.servec {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.acer {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-top: 50px;
+
+}
